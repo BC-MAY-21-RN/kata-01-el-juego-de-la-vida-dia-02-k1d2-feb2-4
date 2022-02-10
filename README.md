@@ -1,5 +1,7 @@
 ![BrightCoders Logo](img/logo-bc.png)
 
+
+
 # Kata El Juego de la Vida
 ### Iteración 2 Orientación a objetos
 ![cover](img/cover.jpg)
@@ -37,10 +39,13 @@ You start with a two dimensional grid of cells, where each cell is either alive 
 
 You should write a program that can accept an arbitrary grid of cells, and will output a similar grid showing the next generation.
 
+
+
 ### Clues
 The input starting position could be a text file that looks like this:
 ```
 Generation 1:
+![Matriz](img/matriz.PNG)
 4 8
 ........
 ....*...
